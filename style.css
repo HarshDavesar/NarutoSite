@@ -1,0 +1,186 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+
+
+body {
+    background-image: linear-gradient(#eae4ea, #a099a1);
+}
+
+.photo {
+    margin-left: 15rem;
+    margin-top: 5rem;
+
+}
+
+.heading:hover {
+    transition: 0.1s;
+    cursor: pointer;
+    color: rgb(230, 246, 4);
+
+}
+
+#1 a:visited {
+    color: dark rgb(11, 194, 11);
+    background-color: dark rgb(11, 194, 11);
+
+}
+
+
+.heading {
+    text-align: right;
+    margin-top: -13rem;
+    margin-right: 15rem;
+    text-size-adjust: 155rem;
+    font-size: 23px;
+    height: 6rem;
+    width: 50rem;
+    background-color: rgb(255, 53, 39);
+    text-align: center;
+    margin-bottom: 10rem;
+    margin-left: 33rem;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    box-shadow: 10px 10px black;
+    border-radius: 100rem;
+    transition: 0.5em;
+
+}
+
+.paragraph {
+    margin-top: 5rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    width: 85rem;
+    height: 42rem;
+    border-style: outset;
+    border-width: 5px;
+    border-color: red;
+    border-radius: 10px;
+padding: 1rem;
+}
+
+.paragraph p {
+    font-size: large;
+}
+
+
+
+pre {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.jutsu {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: larger;
+    height: 3rem;
+    width: 35rem;
+    background-color: rgb(255, 53, 39);
+    justify-content: center;
+    display: flex;
+    box-shadow: 5px 5px;
+    border-radius: 1000rem;
+    margin-left: 30rem;
+
+
+}
+
+
+#1,
+#3,
+#5,
+#7,
+#9 a:hover {
+    background-color: aqua;
+}
+
+
+
+.detail {
+    text-align: center;
+    margin-left: 5rem;
+    margin-right: 5rem;
+
+}
+
+#1,
+#2,
+#3,
+#4,
+#5 {
+    text-align: center;
+}
+
+.first-para,
+.second-para,
+.third-para,
+.fourth-para,
+.fifth-para {
+    padding: 15px;
+    width: 68rem;
+    display: flex;
+    height: 6rem;
+    border-color: #cf1310;
+    border-style: outset;
+    border-width: 5px;
+    margin-left: 15rem;
+    border-radius: 15px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+
+}
+
+.videosHeading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 5rem;
+    font-size: 2rem;
+    height: 3rem;
+    width: 35rem;
+    background-color: rgb(255, 53, 39);
+    justify-content: center;
+    display: flex;
+    box-shadow: 5px 5px;
+    border-radius: 1000rem;
+ 
+}
+
+.video-one,
+.video-two,
+.video-three,
+.video-fourth,
+.video-fifth,
+.video-sixth,
+.video-seventh {
+    justify-content: center;
+    display: flex;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+
+img {
+    border-radius: 15px;
+}
+
+.photo img {
+    border-radius: 150px;
+}
+
+.videoContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+
